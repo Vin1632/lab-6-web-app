@@ -15,6 +15,5 @@
       "direction": "out",
       "name": "res"
     }
-  ],
-  "entryPoint": "cars"
+  ]
 }
